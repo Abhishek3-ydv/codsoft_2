@@ -124,9 +124,27 @@ button:hover {
 .slider-nav a:hover{
     background-color:rgb(167, 129, 129);
 }
+#specs{
+    margin-left:7vw;
+}
 footer ul li{
     list-style-type:circle;
 }
 footer>ul>li>h2{
     margin:1.5rem;
 }
+#review{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-bottom:5rem;
+}
+.rating{
+    border:0px solid white;
+    background-color:black;
+    color:white;
+    height:13vh;
+    font-size:1.4rem;
+    font-weight:bold;
+}
+
